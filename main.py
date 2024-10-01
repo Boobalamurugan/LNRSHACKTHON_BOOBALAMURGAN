@@ -3,11 +3,13 @@ import requests
 from bs4 import BeautifulSoup
 import google.generativeai as genai
 import markdown2
+from dotenv import load_dotenv
+import os 
 
 app = Flask(__name__)
 
 # Configure your API key
-genai.configure(api_key="AIzaSyAgwpUfHVZEaByzp4iWLCqmet9Hx29vx8k")  # Replace with your actual API key
+genai.configure(api_key=os.getenv("API_KEY"))  # Replace with your actual API key
 
 # Function to fetch HTML content from a URL
 def fetch_html(url):
