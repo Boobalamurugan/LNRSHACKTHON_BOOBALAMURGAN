@@ -62,3 +62,7 @@
 - Provide additional comments or instructions to guide AI content generation.
 - Click submit to view the webpage's extracted content and the generated AI response.
 - we can use as recommanded system for web search
+
+## Demo video 
+
+[Video](https://drive.google.com/file/d/12zWV6OTuumMlrujkT8_z_Eil3UAbGxJn/view?usp=sharing)
