@@ -53,7 +53,7 @@
 **Flask:** Python web framework for building web applications.
 
 **BeautifulSoup4:** Web scraping library to parse and navigate HTML content.
-**requests: **Simple HTTP library for Python to fetch webpages.
+**requests:** Simple HTTP library for Python to fetch webpages.
 
 **Google generative-ai:** API wrapper for interacting with the Gemini AI models.
 
