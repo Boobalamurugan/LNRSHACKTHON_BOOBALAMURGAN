@@ -65,4 +65,5 @@
 
 ## Demo video 
 
-[Video](https://drive.google.com/file/d/12zWV6OTuumMlrujkT8_z_Eil3UAbGxJn/view?usp=sharing)
+[Watch the Video](https://drive.google.com/file/d/12zWV6OTuumMlrujkT8_z_Eil3UAbGxJn/view?usp=sharing)
+
